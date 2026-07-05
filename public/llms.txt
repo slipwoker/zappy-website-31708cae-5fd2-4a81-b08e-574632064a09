@@ -1,0 +1,112 @@
+# חנות יד שנייה — Generative Engine Optimization Map
+
+> A resale business focused on selling second-hand items for cash. The business revolves around buying and selling used goods, likely targeting bargain hunters and sustainability-conscious shoppers looking for affordable pre-owned products.
+
+---
+
+## Pages
+
+### בית
+https://-31708cae.zappy5.app
+גלו עולם של מציאות יד שנייה איכותיות במחירים שווים לכל כיס. ריהוט, ביגוד, צעצועים ועוד מחכים לכם. הצטרפו למהפכת הצריכה החכמה עוד היום!
+
+### איך זה עובד
+https://-31708cae.zappy5.app/how-it-works
+רוצים למכור או לקנות? התהליך פשוט ומהיר: הביאו את הפריטים שלכם, נבצע הערכת שווי הוגנת, ותצאו עם מזומן ביד. כל הפרטים מחכים לכם כאן.
+
+### אודות
+https://-31708cae.zappy5.app/about
+חנות יד שנייה היא הרבה יותר מעסק – אנחנו קהילה שמאמינה במתן חיים חדשים לחפצים איכותיים. הכירו את הצוות, החזון והאהבה שלנו לכדור הארץ ולארנק שלכם.
+
+### שאלות נפוצות
+https://-31708cae.zappy5.app/faq
+איזה פריטים אנחנו קונים? איך נקבע המחיר? מה לגבי החזרות? ריכזנו עבורכם תשובות לכל השאלות הנפוצות כדי שתוכלו לסחור איתנו בביטחון מלא ובשקיפות.
+
+### צור קשר
+https://-31708cae.zappy5.app/contact
+יש לכם פריטים למכור או שאתם מחפשים משהו מיוחד? צרו קשר עוד היום! הצוות שלנו זמין לענות על כל שאלה, לקבוע פגישת הערכה או פשוט לעזור לכם למצוא את מבוקשכם.
+
+### Products
+https://-31708cae.zappy5.app/products
+המוצרים שלנו - חנות יד שנייה
+
+### Cart
+https://-31708cae.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-31708cae.zappy5.app/checkout
+תשלום
+
+### Login
+https://-31708cae.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-31708cae.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-31708cae.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-31708cae.zappy5.app/product/:slug
+פרטי המוצר - חנות יד שנייה
+
+### Category
+https://-31708cae.zappy5.app/category/:slug
+מוצרים - חנות יד שנייה
+
+### תודה שפניתם אלינו
+https://-31708cae.zappy5.app/thank-you
+חנות יד שנייה - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-31708cae.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-31708cae.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-31708cae.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About חנות יד שנייה
+A resale business focused on selling second-hand items for cash. The business revolves around buying and selling used goods, likely targeting bargain hunters and sustainability-conscious shoppers looking for affordable pre-owned products.
+
+## Services/Products
+- מכירת מוצרים משומשים
+
+## Target Audience
+- משפחות צעירות המחפשות חיסכון
+- צרכנים מודעים לסביבה
+- סטודנטים בתקציב מוגבל
+- לילדים ומשפחה
+
+## Industry
+Second-hand / Resale
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-31708cae.zappy5.app/sitemap.xml
+- Robots: https://-31708cae.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-31708cae.zappy5.app/llms-full.txt
+- Products (JSON): https://-31708cae.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-31708cae.zappy5.app/product-feed.xml
