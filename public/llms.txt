@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://-31708cae.zappy5.app
+https://example.com
 גלו עולם של מציאות יד שנייה איכותיות במחירים שווים לכל כיס. ריהוט, ביגוד, צעצועים ועוד מחכים לכם. הצטרפו למהפכת הצריכה החכמה עוד היום!
 
 ### איך זה עובד
-https://-31708cae.zappy5.app/how-it-works
+https://example.com/how-it-works
 רוצים למכור או לקנות? התהליך פשוט ומהיר: הביאו את הפריטים שלכם, נבצע הערכת שווי הוגנת, ותצאו עם מזומן ביד. כל הפרטים מחכים לכם כאן.
 
 ### אודות
-https://-31708cae.zappy5.app/about
+https://example.com/about
 חנות יד שנייה היא הרבה יותר מעסק – אנחנו קהילה שמאמינה במתן חיים חדשים לחפצים איכותיים. הכירו את הצוות, החזון והאהבה שלנו לכדור הארץ ולארנק שלכם.
 
 ### שאלות נפוצות
-https://-31708cae.zappy5.app/faq
+https://example.com/faq
 איזה פריטים אנחנו קונים? איך נקבע המחיר? מה לגבי החזרות? ריכזנו עבורכם תשובות לכל השאלות הנפוצות כדי שתוכלו לסחור איתנו בביטחון מלא ובשקיפות.
 
 ### צור קשר
-https://-31708cae.zappy5.app/contact
+https://example.com/contact
 יש לכם פריטים למכור או שאתם מחפשים משהו מיוחד? צרו קשר עוד היום! הצוות שלנו זמין לענות על כל שאלה, לקבוע פגישת הערכה או פשוט לעזור לכם למצוא את מבוקשכם.
 
 ### Products
-https://-31708cae.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - חנות יד שנייה
 
 ### Cart
-https://-31708cae.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-31708cae.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-31708cae.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-31708cae.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-31708cae.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-31708cae.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - חנות יד שנייה
 
 ### Category
-https://-31708cae.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - חנות יד שנייה
 
 ### תודה שפניתם אלינו
-https://-31708cae.zappy5.app/thank-you
+https://example.com/thank-you
 חנות יד שנייה - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-31708cae.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-31708cae.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-31708cae.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -105,8 +105,8 @@ Second-hand / Resale
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-31708cae.zappy5.app/sitemap.xml
-- Robots: https://-31708cae.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-31708cae.zappy5.app/llms-full.txt
-- Products (JSON): https://-31708cae.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-31708cae.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
